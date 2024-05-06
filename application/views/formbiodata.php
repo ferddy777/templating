@@ -26,6 +26,7 @@
         }
         label {
             display: block;
+            color: white;
             margin-bottom: 5px;
             font-size: 14px;
             font-weight: bold;

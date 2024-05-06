@@ -24,7 +24,7 @@ html {
 }
 
 body {
-    background: url("https://wallpapercave.com/wp/wp9189221.jpg");
+    background: url("https://wallpapercave.com/wp/wp12386266.jpg");
 }
 
 section {
@@ -80,7 +80,12 @@ section {
     border-radius: 10px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
 }
-
+h1{
+    color: white;
+}
+h2{
+    color: white;
+}
 /* Footer Styles */
 .footer {
     background: var(--bg-color);
